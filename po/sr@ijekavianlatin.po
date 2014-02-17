@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Era_Al-Qedarites-1.12\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-02-17 02:48+0100\n"
+"PO-Revision-Date: 2014-02-17 02:48+0100\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: sr@ijekavianlatin\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#. [textdomain]
+#: Era_Al-Qedarites/_main.cfg:26
+msgid "EAlQ"
+msgstr ""
+
+#. [era]: id=EAlQ
+#: Era_Al-Qedarites/_main.cfg:50
+msgid "Default + Al-Qedarites"
+msgstr ""
+
+#. [multiplayer_side]: id=era_al-qedarites, type=qedarite_nizari, type=qedarite_horse_sheik
+#: Era_Al-Qedarites/faction.cfg:4
+msgid "Al-Qedarites"
+msgstr ""
